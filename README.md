@@ -11,3 +11,6 @@ Este é um projeto de exemplo para demonstrar o uso de Singleton, Strategy e Fac
 1. Clone este repositório
 2. Importe o projeto no seu IDE de preferência
 3. Execute a classe "Inicio.java" como uma aplicação Java
+
+## Autor
+Paulo César
